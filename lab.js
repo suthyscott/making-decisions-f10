@@ -5,7 +5,7 @@
   If it is true, console-log "I love to code!"
   If it is not, console-log "Coding has it's challenges."
 */
-
+//  Everything is done!
 //CODE HERE
 
 // For problems 2-3 use the following lines of code:
